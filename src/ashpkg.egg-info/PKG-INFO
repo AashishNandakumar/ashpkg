@@ -1,3 +1,23 @@
+Metadata-Version: 2.1
+Name: ashpkg
+Version: 1.0.0
+Summary: A simple Python package
+Home-page: https://github.com/AashishNandakumar/ashpkg
+Author: Aashish Nandakumar
+Author-email: aashishnkumar@gmail.com
+Project-URL: Issue Tracker, https://github.com/AashishNandakumar/ashpkg/issues
+Project-URL: repository, https://github.com/AashishNandakumar/ashpkg
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+
+# `ashpkg`
+
+The `ashpkg` is a simple testing example to understand the basics of developing your first Python package.
+
 MIT License
 
 Copyright (c) 2024 Aashish Nandakumar

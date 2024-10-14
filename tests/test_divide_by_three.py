@@ -1,5 +1,5 @@
 import unittest
-from ..src.divide.divide_by_three import divide_by_three
+from src.divide.divide_by_three import divide_by_three
 
 
 class TestDivideByThree(unittest.TestCase):
@@ -8,4 +8,5 @@ class TestDivideByThree(unittest.TestCase):
         self.assertEqual(divide_by_three(12), 4)
 
 
-unittest.main()
+if __name__ == "__main__":
+    unittest.main()
